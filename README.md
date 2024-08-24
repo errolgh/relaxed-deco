@@ -47,3 +47,7 @@
 Deploy this starter with one click on [Netlify](https://app.netlify.com/signup):
 
 [<img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify" />](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-minimal)
+
+
+https://www.youtube.com/watch?v=5BhFF7K9ofw&t=220s&ab_channel=CristianMihai
+27'10"
